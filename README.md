@@ -30,7 +30,7 @@ The optimization problem is formulated as a Quadratic Programming (QP) problem.
 - Gazebo
 - Python implementation
 
-[!racetrack](result/racetrack.png)
+![racetrack](result/racetrack.png)
 ## Result
 
 Reference trajectory vs actual trajectory
