@@ -40,9 +40,9 @@ Reference trajectory vs actual trajectory
 
 ## Repository Structure
 
-/src     mpc implementation
-/result  trajectory tracking result
-/data    reference trajectory(csv)
+src/     implementation of the MPC controller
+result/  trajectory tracking result
+data/    reference trajectory used for tracking(csv)
 
 ## Author
 Junyoung Choi
