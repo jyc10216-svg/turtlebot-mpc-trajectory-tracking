@@ -38,5 +38,11 @@ Reference trajectory vs actual trajectory
 
 ![Trajectory Tracking Result](result/mpc_tracking_result.png)
 
+## Repository Structure
+
+/src     mpc implementation
+/result  trajectory tracking result
+/data    reference trajectory(csv)
+
 ## Author
 Junyoung Choi
