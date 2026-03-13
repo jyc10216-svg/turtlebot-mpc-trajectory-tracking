@@ -34,7 +34,7 @@ The optimization problem is formulated as a Quadratic Programming (QP) problem.
 
 Reference trajectory vs actual trajectory
 
-![Trajectory Tracking Result](trajectory_result.png)
+![Trajectory Tracking Result](mpc_tracking_result.png)
 
 ## Author
 Junyoung Choi
