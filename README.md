@@ -31,6 +31,7 @@ The optimization problem is formulated as a Quadratic Programming (QP) problem.
 - Python implementation
 
 ![racetrack](result/racetrack.png)
+
 ## Result
 
 Reference trajectory vs actual trajectory
